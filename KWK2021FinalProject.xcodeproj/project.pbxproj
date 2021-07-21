@@ -16,6 +16,8 @@
 		711988E926A76BF5009831E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 711988E726A76BF5009831E9 /* LaunchScreen.storyboard */; };
 		711988F426A76BF5009831E9 /* KWK2021FinalProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 711988F326A76BF5009831E9 /* KWK2021FinalProjectTests.swift */; };
 		711988FF26A76BF5009831E9 /* KWK2021FinalProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 711988FE26A76BF5009831E9 /* KWK2021FinalProjectUITests.swift */; };
+		9E2C5BE926A8A61C00F859C5 /* AnnouncementsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E2C5BE826A8A61C00F859C5 /* AnnouncementsViewController.swift */; };
+		9E2C5BEB26A8A66600F859C5 /* QuickLinksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E2C5BEA26A8A66600F859C5 /* QuickLinksViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		711988FA26A76BF5009831E9 /* KWK2021FinalProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KWK2021FinalProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		711988FE26A76BF5009831E9 /* KWK2021FinalProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KWK2021FinalProjectUITests.swift; sourceTree = "<group>"; };
 		7119890026A76BF5009831E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E2C5BE826A8A61C00F859C5 /* AnnouncementsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnnouncementsViewController.swift; sourceTree = "<group>"; };
+		9E2C5BEA26A8A66600F859C5 /* QuickLinksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickLinksViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +113,8 @@
 				711988E726A76BF5009831E9 /* LaunchScreen.storyboard */,
 				711988EA26A76BF5009831E9 /* Info.plist */,
 				711988E226A76BF3009831E9 /* KWK2021FinalProject.xcdatamodeld */,
+				9E2C5BE826A8A61C00F859C5 /* AnnouncementsViewController.swift */,
+				9E2C5BEA26A8A66600F859C5 /* QuickLinksViewController.swift */,
 			);
 			path = KWK2021FinalProject;
 			sourceTree = "<group>";
@@ -261,8 +267,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E2C5BEB26A8A66600F859C5 /* QuickLinksViewController.swift in Sources */,
 				711988DE26A76BF3009831E9 /* ViewController.swift in Sources */,
 				711988DA26A76BF3009831E9 /* AppDelegate.swift in Sources */,
+				9E2C5BE926A8A61C00F859C5 /* AnnouncementsViewController.swift in Sources */,
 				711988E426A76BF3009831E9 /* KWK2021FinalProject.xcdatamodeld in Sources */,
 				711988DC26A76BF3009831E9 /* SceneDelegate.swift in Sources */,
 			);
