@@ -21,6 +21,7 @@
 		7119891326AA0A23009831E9 /* AddToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7119891226AA0A23009831E9 /* AddToDoViewController.swift */; };
 		9E2C5BE926A8A61C00F859C5 /* AnnouncementsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E2C5BE826A8A61C00F859C5 /* AnnouncementsViewController.swift */; };
 		9E2C5BEB26A8A66600F859C5 /* QuickLinksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E2C5BEA26A8A66600F859C5 /* QuickLinksViewController.swift */; };
+		A8AF70F826AA15520007A33B /* CompleteToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8AF70F726AA15520007A33B /* CompleteToDoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		7119891226AA0A23009831E9 /* AddToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToDoViewController.swift; sourceTree = "<group>"; };
 		9E2C5BE826A8A61C00F859C5 /* AnnouncementsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnnouncementsViewController.swift; sourceTree = "<group>"; };
 		9E2C5BEA26A8A66600F859C5 /* QuickLinksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickLinksViewController.swift; sourceTree = "<group>"; };
+		A8AF70F726AA15520007A33B /* CompleteToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompleteToDoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				711988DB26A76BF3009831E9 /* SceneDelegate.swift */,
 				711988DD26A76BF3009831E9 /* ViewController.swift */,
 				711988DF26A76BF3009831E9 /* Main.storyboard */,
+				A8AF70F726AA15520007A33B /* CompleteToDoViewController.swift */,
 				711988E526A76BF5009831E9 /* Assets.xcassets */,
 				711988E726A76BF5009831E9 /* LaunchScreen.storyboard */,
 				711988EA26A76BF5009831E9 /* Info.plist */,
@@ -282,6 +285,7 @@
 				7119891126A9F053009831E9 /* ToDo.swift in Sources */,
 				7119891326AA0A23009831E9 /* AddToDoViewController.swift in Sources */,
 				711988DA26A76BF3009831E9 /* AppDelegate.swift in Sources */,
+				A8AF70F826AA15520007A33B /* CompleteToDoViewController.swift in Sources */,
 				9E2C5BE926A8A61C00F859C5 /* AnnouncementsViewController.swift in Sources */,
 				711988E426A76BF3009831E9 /* KWK2021FinalProject.xcdatamodeld in Sources */,
 				711988DC26A76BF3009831E9 /* SceneDelegate.swift in Sources */,
